@@ -2,6 +2,7 @@
 
 #include "Vector2.h"
 
+
 class Bezier
 {
 public:
@@ -11,4 +12,5 @@ public:
 
 private:
 	Vector2 p0, p1, p2, p3;
+	
 };
